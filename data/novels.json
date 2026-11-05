@@ -1,0 +1,262 @@
+[
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "synopsis": "Kisah klasik tentang cinta, kesalahpahaman kelas sosial, dan kebanggaan antara Elizabeth Bennet yang cerdas dan Tuan Darcy yang tampak angkuh di pedesaan Inggris abad ke-19.",
+    "coverUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=600&q=80",
+    "fileType": "pdf",
+    "totalPages": 5,
+    "currentPage": 2,
+    "progressPercent": 40,
+    "status": "reading",
+    "isFavorite": true,
+    "lastReadAt": "2026-11-05T08:23:20.574Z",
+    "chapters": [
+      {
+        "id": "c1",
+        "title": "Bab 1: Kedatangan Tuan Bingley",
+        "content": "Adalah sebuah kebenaran yang diakui secara universal, bahwa seorang pria lajang yang memiliki kekayaan memadai pastilah membutuhkan seorang istri. Betapapun sedikitnya perasaan atau pandangan pria semacam itu diketahui ketika pertama kali memasuki suatu lingkungan, kebenaran ini begitu tertanam di benak keluarga-keluarga tetangga, sehingga ia dianggap sebagai hak milik sah dari salah satu putri mereka.\n\n\"Suamiku tersayang,\" kata istrinya kepadanya suatu hari, \"sudahkah kau dengar bahwa Taman Netherfield akhirnya disewa?\"\n\nTuan Bennet menjawab bahwa ia belum mendengarnya.\n\n\"Tapi itu benar,\" sahutnya; \"karena Nyonya Long baru saja berada di sini, dan dia menceritakan semuanya kepadaku.\"\n\nTuan Bennet tidak menjawab.\n\n\"Tidakkah kau ingin tahu siapa yang menyewanya?\" seru istrinya dengan tidak sabar.\n\n\"Kau ingin menceritakannya kepadaku, dan aku tidak berkeberatan mendengarkannya.\"\n\nUndangan itu sudah lebih dari cukup."
+      },
+      {
+        "id": "c2",
+        "title": "Bab 2: Kunjungan Tuan Bennet",
+        "content": "Tuan Bennet termasuk salah seorang yang pertama berkunjung ke Tuan Bingley. Ia selalu berniat untuk mengunjunginya, meskipun sampai saat-saat terakhir selalu meyakinkan istrinya bahwa ia tidak akan pergi; dan baru pada malam hari setelah kunjungan itu dilakukan, istrinya mendapat kabar mengenai hal tersebut.\n\nSaat mengamati putri keduanya sedang menjahit pita pada topinya, ia tiba-tiba menyapanya:\n\n\"Kuharap Tuan Bingley akan menyukainya, Lizzy.\"\n\n\"Kita tidak mungkin tahu apa yang disukai Tuan Bingley,\" kata ibunya dengan kesal, \"karena kita tidak akan mengunjunginya.\""
+      },
+      {
+        "id": "c3",
+        "title": "Bab 3: Dansa di Meryton",
+        "content": "Tak lama kemudian pesta dansa di Meryton dimulai. Tuan Bingley adalah pria yang tampan dan bersahaja; ia memiliki wajah yang menyenangkan dan tingkah laku yang luwes serta ramah. Namun temannya, Tuan Darcy, segera menarik perhatian seisi ruangan karena sosoknya yang tegap, ketampanannya, dan kabar bahwa penghasilannya mencapai sepuluh ribu pound setahun.\n\nNamun sebelum malam berakhir, sikapnya yang dingin dan menjaga jarak membuat seluruh hadirin menganggapnya sebagai pria paling sombong dan tidak menyenangkan di dunia."
+      }
+    ],
+    "id": "nov_seed_1",
+    "userId": "usr_demo_1",
+    "createdAt": "2026-11-05T10:23:20.575Z",
+    "updatedAt": "2026-11-05T10:23:20.575Z",
+    "fileUrl": "/api/files/pride-and-prejudice.pdf",
+    "fileName": "pride-and-prejudice.pdf"
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "synopsis": "Kumpulan kasus penyelidikan sang detektif brilian Sherlock Holmes dan sahabatnya Dr. John Watson di Baker Street, memecahkan teka-teki paling rumit di London era Victoria.",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?auto=format&fit=crop&w=600&q=80",
+    "fileType": "pdf",
+    "totalPages": 3,
+    "currentPage": 1,
+    "progressPercent": 33,
+    "status": "reading",
+    "isFavorite": true,
+    "lastReadAt": "2026-11-04T10:23:20.574Z",
+    "chapters": [
+      {
+        "id": "c1",
+        "title": "Skandal di Bohemia: Bagian I",
+        "content": "Bagi Sherlock Holmes, dia selalu menjadi wanita itu. Jarang sekali aku mendengar dia menyebut namanya dengan cara lain. Di matanya, dia mengungguli dan mendominasi seluruh kaumnya.\n\nBukan berarti dia merasakan emosi yang mirip dengan cinta untuk Irene Adler. Semua emosi, terutama yang satu itu, sangat menjijikkan bagi pikirannya yang dingin, tepat, namun sangat seimbang. Dia adalah mesin penalaran dan observasi paling sempurna yang pernah dikenal dunia.\n\nPada suatu malam tanggal dua puluh Maret 1888, aku sedang kembali dari kunjungan pasien ketika langkah kakiku membawaku melewati Baker Street..."
+      },
+      {
+        "id": "c2",
+        "title": "Skandal di Bohemia: Bagian II",
+        "content": "Pria misterius bertopeng melangkah masuk ke dalam kamar bernomor 221B. Tingginya tidak kurang dari enam kaki enam inci, dengan dada dan anggota tubuh pahlawan Herkules.\n\n\"Anda telah menerima surat saya?\" tanyanya dengan aksen Jerman yang kental.\n\n\"Duduklah, Yang Mulia,\" kata Holmes santai. \"Apakah saya berbicara dengan Wilhelm Gottsreich Sigismond von Ormstein, Pangeran Agung Cassel-Felstein, dan Raja Bohemia?\"\n\nPria itu melompat berdiri dari kursinya dan melepaskan topeng gelapnya dengan terkejut."
+      }
+    ],
+    "id": "nov_seed_2",
+    "userId": "usr_demo_1",
+    "createdAt": "2026-11-04T10:23:20.575Z",
+    "updatedAt": "2026-11-04T10:23:20.575Z",
+    "fileUrl": "/api/files/the-adventures-of-sherlock-holmes.pdf",
+    "fileName": "the-adventures-of-sherlock-holmes.pdf"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Horror",
+    "synopsis": "Catatan harian Jonathan Harker saat mengunjungi kastil Count Dracula di pegunungan Transylvania yang diselimuti kabut dan rahasia kegelapan kuno penghisap darah.",
+    "coverUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80",
+    "fileType": "text",
+    "totalPages": 410,
+    "currentPage": 0,
+    "progressPercent": 0,
+    "status": "unread",
+    "isFavorite": false,
+    "chapters": [
+      {
+        "id": "c1",
+        "title": "Bistritz ke Bukovina",
+        "content": "3 Mei. Bistritz.—Meninggalkan Munich pada pukul 8:35 malam tanggal 1 Mei, tiba di Wina keesokan harinya pagi-pagi sekali. Kereta terlambat satu jam. Budapest tampaknya merupakan tempat yang indah. Kesan yang saya peroleh adalah bahwa kami meninggalkan Barat dan memasuki Timur.\n\nKereta api membawa kami melewati perbukitan yang hijau dan kastil-kastil tua yang menjulang di puncak tebing berbatu."
+      }
+    ],
+    "id": "nov_seed_3",
+    "userId": "usr_demo_1",
+    "createdAt": "2026-11-03T10:23:20.575Z",
+    "updatedAt": "2026-11-03T10:23:20.575Z"
+  },
+  {
+    "title": "Around the World in Eighty Days",
+    "author": "Jules Verne",
+    "genre": "Adventure",
+    "synopsis": "Taruhan 20.000 poundsterling mendorong pria Inggris yang eksentrik Phileas Fogg dan pelayannya Passepartout untuk mengelilingi dunia dalam waktu tepat 80 hari.",
+    "coverUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=600&q=80",
+    "fileType": "text",
+    "totalPages": 250,
+    "currentPage": 250,
+    "progressPercent": 100,
+    "status": "completed",
+    "isFavorite": true,
+    "lastReadAt": "2026-11-03T10:23:20.574Z",
+    "chapters": [
+      {
+        "id": "c1",
+        "title": "Taruhan di Reform Club",
+        "content": "Pada tahun 1872, rumah bernomor 7 di Savile Row, Burlington Gardens—tempat meninggalnya Sheridan pada tahun 1814—dihuni oleh Phileas Fogg, Esq., salah satu anggota Reform Club yang paling terkemuka dan istimewa.\n\nPhileas Fogg adalah pria yang jarang sekali berbicara banyak, namun tindakannya setepat jarum jam dinding."
+      }
+    ],
+    "id": "nov_seed_4",
+    "userId": "usr_demo_1",
+    "createdAt": "2026-11-02T10:23:20.575Z",
+    "updatedAt": "2026-11-02T10:23:20.575Z"
+  },
+  {
+    "title": "Alice in Wonderland",
+    "author": "Lewis Carroll",
+    "genre": "Fantasy",
+    "synopsis": "Petualangan fantastis gadis kecil bernama Alice yang mengejar kelinci putih berompi ke dalam lubang tanah dan menemukan dunia penuh keajaiban aneh.",
+    "coverUrl": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?auto=format&fit=crop&w=600&q=80",
+    "fileType": "text",
+    "totalPages": 160,
+    "currentPage": 0,
+    "progressPercent": 0,
+    "status": "unread",
+    "isFavorite": false,
+    "chapters": [
+      {
+        "id": "c1",
+        "title": "Menuruni Lubang Kelinci",
+        "content": "Alice mulai merasa sangat lelah duduk di samping saudara perempuannya di tepi sungai, dan tidak memiliki apa pun untuk dilakukan. Sekali atau dua kali ia mengintip ke dalam buku yang sedang dibaca kakaknya, tetapi buku itu tidak memiliki gambar atau percakapan di dalamnya.\n\n\"Dan apa gunanya buku,\" pikir Alice, \"tanpa gambar atau percakapan?\""
+      }
+    ],
+    "id": "nov_seed_5",
+    "userId": "usr_demo_1",
+    "createdAt": "2026-11-01T10:23:20.575Z",
+    "updatedAt": "2026-11-01T10:23:20.575Z"
+  },
+  {
+    "title": "The Importance of Being Earnest",
+    "author": "Oscar Wilde",
+    "genre": "Comedy",
+    "synopsis": "Komedi satir tajam masyarakat kelas atas Victoria tentang dua pria lajang yang menggunakan nama samaran yang sama demi memikat wanita pujaan mereka.",
+    "coverUrl": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=600&q=80",
+    "fileType": "text",
+    "totalPages": 120,
+    "currentPage": 30,
+    "progressPercent": 25,
+    "status": "reading",
+    "isFavorite": false,
+    "lastReadAt": "2026-11-05T05:23:20.574Z",
+    "chapters": [
+      {
+        "id": "c1",
+        "title": "Babak I: Ruang Duduk Algernon",
+        "content": "Ruang duduk di flat Algernon di Half-Moon Street. Ruangan tersebut ditata dengan mewah dan artistik. Suara piano terdengar dari ruangan sebelah.\n\nAlgernon melangkah masuk.\n\n\"Apakah kau mendengar apa yang kumainkan, Lane?\"\n\n\"Saya rasa tidak sopan untuk mendengarkan, Tuan.\"\n\n\"Sayang sekali bagi dirimu. Aku tidak memainkan piano dengan akurat—siapa pun bisa memainkan dengan akurat—tetapi aku memainkannya dengan ekspresi yang luar biasa!\""
+      }
+    ],
+    "id": "nov_seed_6",
+    "userId": "usr_demo_1",
+    "createdAt": "2026-10-31T10:23:20.575Z",
+    "updatedAt": "2026-10-31T10:23:20.575Z"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "synopsis": "Kisah klasik tentang cinta, kesalahpahaman kelas sosial, dan kebanggaan antara Elizabeth Bennet yang cerdas dan Tuan Darcy yang tampak angkuh di pedesaan Inggris abad ke-19.",
+    "coverUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=600&q=80",
+    "fileUrl": "/api/files/pride-and-prejudice.pdf",
+    "fileName": "pride-and-prejudice.pdf",
+    "fileType": "pdf",
+    "totalPages": 5,
+    "currentPage": 2,
+    "progressPercent": 40,
+    "status": "unread",
+    "isFavorite": false,
+    "lastReadAt": "2026-11-05T08:39:31.198Z",
+    "chapters": [
+      {
+        "id": "c1",
+        "title": "Bab 1: Kedatangan Tuan Bingley",
+        "content": "Adalah sebuah kebenaran yang diakui secara universal, bahwa seorang pria lajang yang memiliki kekayaan memadai pastilah membutuhkan seorang istri. Betapapun sedikitnya perasaan atau pandangan pria semacam itu diketahui ketika pertama kali memasuki suatu lingkungan, kebenaran ini begitu tertanam di benak keluarga-keluarga tetangga, sehingga ia dianggap sebagai hak milik sah dari salah satu putri mereka.\n\n\"Suamiku tersayang,\" kata istrinya kepadanya suatu hari, \"sudahkah kau dengar bahwa Taman Netherfield akhirnya disewa?\"\n\nTuan Bennet menjawab bahwa ia belum mendengarnya.\n\n\"Tapi itu benar,\" sahutnya; \"karena Nyonya Long baru saja berada di sini, dan dia menceritakan semuanya kepadaku.\"\n\nTuan Bennet tidak menjawab.\n\n\"Tidakkah kau ingin tahu siapa yang menyewanya?\" seru istrinya dengan tidak sabar.\n\n\"Kau ingin menceritakannya kepadaku, dan aku tidak berkeberatan mendengarkannya.\"\n\nUndangan itu sudah lebih dari cukup."
+      },
+      {
+        "id": "c2",
+        "title": "Bab 2: Kunjungan Tuan Bennet",
+        "content": "Tuan Bennet termasuk salah seorang yang pertama berkunjung ke Tuan Bingley. Ia selalu berniat untuk mengunjunginya, meskipun sampai saat-saat terakhir selalu meyakinkan istrinya bahwa ia tidak akan pergi; dan baru pada malam hari setelah kunjungan itu dilakukan, istrinya mendapat kabar mengenai hal tersebut.\n\nSaat mengamati putri keduanya sedang menjahit pita pada topinya, ia tiba-tiba menyapanya:\n\n\"Kuharap Tuan Bingley akan menyukainya, Lizzy.\"\n\n\"Kita tidak mungkin tahu apa yang disukai Tuan Bingley,\" kata ibunya dengan kesal, \"karena kita tidak akan mengunjunginya.\""
+      },
+      {
+        "id": "c3",
+        "title": "Bab 3: Dansa di Meryton",
+        "content": "Tak lama kemudian pesta dansa di Meryton dimulai. Tuan Bingley adalah pria yang tampan dan bersahaja; ia memiliki wajah yang menyenangkan dan tingkah laku yang luwes serta ramah. Namun temannya, Tuan Darcy, segera menarik perhatian seisi ruangan karena sosoknya yang tegap, ketampanannya, dan kabar bahwa penghasilannya mencapai sepuluh ribu pound setahun.\n\nNamun sebelum malam berakhir, sikapnya yang dingin dan menjaga jarak membuat seluruh hadirin menganggapnya sebagai pria paling sombong dan tidak menyenangkan di dunia."
+      }
+    ],
+    "id": "nov_init_1793875182268_0",
+    "userId": "usr_1793875182268_ug9ee",
+    "createdAt": "2026-11-05T10:39:42.268Z",
+    "updatedAt": "2026-11-05T10:39:42.268Z"
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "synopsis": "Kumpulan kasus penyelidikan sang detektif brilian Sherlock Holmes dan sahabatnya Dr. John Watson di Baker Street, memecahkan teka-teki paling rumit di London era Victoria.",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?auto=format&fit=crop&w=600&q=80",
+    "fileUrl": "/api/files/the-adventures-of-sherlock-holmes.pdf",
+    "fileName": "the-adventures-of-sherlock-holmes.pdf",
+    "fileType": "pdf",
+    "totalPages": 3,
+    "currentPage": 1,
+    "progressPercent": 33,
+    "status": "unread",
+    "isFavorite": false,
+    "lastReadAt": "2026-11-04T10:39:31.199Z",
+    "chapters": [
+      {
+        "id": "c1",
+        "title": "Skandal di Bohemia: Bagian I",
+        "content": "Bagi Sherlock Holmes, dia selalu menjadi wanita itu. Jarang sekali aku mendengar dia menyebut namanya dengan cara lain. Di matanya, dia mengungguli dan mendominasi seluruh kaumnya.\n\nBukan berarti dia merasakan emosi yang mirip dengan cinta untuk Irene Adler. Semua emosi, terutama yang satu itu, sangat menjijikkan bagi pikirannya yang dingin, tepat, namun sangat seimbang. Dia adalah mesin penalaran dan observasi paling sempurna yang pernah dikenal dunia.\n\nPada suatu malam tanggal dua puluh Maret 1888, aku sedang kembali dari kunjungan pasien ketika langkah kakiku membawaku melewati Baker Street..."
+      },
+      {
+        "id": "c2",
+        "title": "Skandal di Bohemia: Bagian II",
+        "content": "Pria misterius bertopeng melangkah masuk ke dalam kamar bernomor 221B. Tingginya tidak kurang dari enam kaki enam inci, dengan dada dan anggota tubuh pahlawan Herkules.\n\n\"Anda telah menerima surat saya?\" tanyanya dengan aksen Jerman yang kental.\n\n\"Duduklah, Yang Mulia,\" kata Holmes santai. \"Apakah saya berbicara dengan Wilhelm Gottsreich Sigismond von Ormstein, Pangeran Agung Cassel-Felstein, dan Raja Bohemia?\"\n\nPria itu melompat berdiri dari kursinya dan melepaskan topeng gelapnya dengan terkejut."
+      }
+    ],
+    "id": "nov_init_1793875182268_1",
+    "userId": "usr_1793875182268_ug9ee",
+    "createdAt": "2026-11-05T10:39:42.268Z",
+    "updatedAt": "2026-11-05T10:39:42.268Z"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Horror",
+    "synopsis": "Catatan harian Jonathan Harker saat mengunjungi kastil Count Dracula di pegunungan Transylvania yang diselimuti kabut dan rahasia kegelapan kuno penghisap darah.",
+    "coverUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80",
+    "fileType": "text",
+    "totalPages": 410,
+    "currentPage": 0,
+    "progressPercent": 0,
+    "status": "unread",
+    "isFavorite": false,
+    "chapters": [
+      {
+        "id": "c1",
+        "title": "Bistritz ke Bukovina",
+        "content": "3 Mei. Bistritz.—Meninggalkan Munich pada pukul 8:35 malam tanggal 1 Mei, tiba di Wina keesokan harinya pagi-pagi sekali. Kereta terlambat satu jam. Budapest tampaknya merupakan tempat yang indah. Kesan yang saya peroleh adalah bahwa kami meninggalkan Barat dan memasuki Timur.\n\nKereta api membawa kami melewati perbukitan yang hijau dan kastil-kastil tua yang menjulang di puncak tebing berbatu."
+      }
+    ],
+    "id": "nov_init_1793875182268_2",
+    "userId": "usr_1793875182268_ug9ee",
+    "createdAt": "2026-11-05T10:39:42.268Z",
+    "updatedAt": "2026-11-05T10:39:42.268Z"
+  }
+]

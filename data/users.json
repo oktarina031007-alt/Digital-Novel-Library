@@ -1,0 +1,20 @@
+[
+  {
+    "id": "usr_demo_1",
+    "email": "demo@novelbox.app",
+    "name": "Aurelia Santoso",
+    "passwordHash": "b2fb1d38358c16c1cbad986b683e6be343b7167d0bd479a796989ab7166a43f6",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80",
+    "bio": "Pencinta novel klasik, fantasi, dan misteri. Menikmati secangkir kopi hangat ditemani buku yang memikat.",
+    "createdAt": "2026-11-05T10:23:20.574Z"
+  },
+  {
+    "id": "usr_1793875182268_ug9ee",
+    "email": "testuser_1793875182246@example.com",
+    "name": "Budi Santoso",
+    "passwordHash": "a6c3dbf1b1e81281741aa6497ec9a35b97dc3c5e6bdf782a64c86013508cdd90",
+    "avatarUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Budi%20Santoso&backgroundColor=f3ece2,e8dacb",
+    "bio": "Pustakawan digital di NovelBox.",
+    "createdAt": "2026-11-05T10:39:42.268Z"
+  }
+]

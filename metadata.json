@@ -1,0 +1,6 @@
+{
+  "name": "NovelBox – Digital Novel Library",
+  "description": "Perpustakaan digital pribadi untuk menyimpan, mengatur, mencari, dan membaca koleksi novel digital PDF & EPUB di berbagai perangkat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
